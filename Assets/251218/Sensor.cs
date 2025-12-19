@@ -11,7 +11,6 @@ namespace MPSSimulator
     {
         [Header("PLC 신호")]
         public bool sensorSignal;
-
         enum 센서타입
         {
             광전센서,
